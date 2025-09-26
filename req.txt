@@ -1,0 +1,9 @@
+typer[all]
+python-dotenv
+pypdf
+chromadb
+sentence-transformers
+requests
+groq
+rich
+fpdf

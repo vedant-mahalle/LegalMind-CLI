@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.eggs
+*.env
+venv/
+vedant/
+
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF and output files
+*.pdf
+*.log
+*.out
+*.aux
+*.toc
+*.snm
+*.nav
+
+# Environment and secrets
+.env
+*.env
+
+# ChromaDB and vector store
+chroma_store/
+
+# Misc
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Ignore logos and templates
+logo.png
+logo2.png
+style.css
+template.html
+
+# Ignore test files
+test.txt
+try1.pdf
